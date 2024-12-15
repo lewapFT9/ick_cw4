@@ -1,0 +1,34 @@
+﻿camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCreateImage przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvSetImageROI przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvResetImageROI przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvGetReal1D przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvGetSize przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCopy przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvSetZero przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvSplit przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvConvertScale przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvAnd przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvXorS przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvInRangeS przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvRectangle przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvEllipse przywołany w funkcji cvEllipseBox
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCvtColor przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCamShift przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCreateHist przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvGetMinMaxHistValue przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCalcArrHist przywołany w funkcji cvCalcHist
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCalcArrBackProject przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvNamedWindow przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvShowImage przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvDestroyWindow przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCreateTrackbar przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvSetMouseCallback przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvWaitKey przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCreateFileCapture przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvCreateCameraCapture przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvQueryFrame przywołany w funkcji main
+camshiftdemo.obj : error LNK2019: nierozpoznany symbol zewnętrzny cvReleaseCapture przywołany w funkcji main
+C:\OpenCV2.1\lib\cxcore210.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\OpenCV2.1\lib\cv210.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\OpenCV2.1\lib\highgui210.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\student\Desktop\lab4_ick\lab4_ick\x64\Debug\lab4_ick.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 30
